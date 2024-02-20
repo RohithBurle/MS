@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\siddartha_legala\Desktop\New folder (3)\pojofile"/>
+			<item value="C:\Users\siddartha_legala\Desktop\microservices\micro-services-template-master\micro-services-template-master"/>
+			<item value="C:\Users\siddartha_legala\Desktop\microservices\generic-super_pom-feature-onPrem-superpom-3.2.14-JDK17\generic-super_pom-feature-onPrem-superpom-3.2.14-JDK17"/>
+			<item value="C:\Users\siddartha_legala\Desktop\microservices\generic-super_pom-feature-onPrem-superpom-3.2.14-JDK17"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
